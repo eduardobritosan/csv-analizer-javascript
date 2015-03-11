@@ -4,7 +4,7 @@ var assert = chai.assert;
 
 suite('csv', function() {
 	if (typeof __html__ !== 'undefined') {
-							document.body.innerHTML = __html__['tests/karmatest.html'];
+							document.body.innerHTML = __html__['tests/index.html'];
               original = document.getElementById('original');
               finaltable = document.getElementById('finaltable');
           }   
