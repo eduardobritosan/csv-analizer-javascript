@@ -1,0 +1,26 @@
+{
+  "name": "csvJavascript",
+  "version": "1.0.0",
+  "description": "CSV string analyzer",
+  "main": "csv.js",
+  "scripts": {
+    "test": "firefox index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eduardobritosan/csvJavascript.git"
+  },
+  "keywords": [
+    "csv"
+  ],
+  "author": "Eduardo Brito, Hector Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardobritosan/csvJavascript/issues"
+  },
+  "homepage": "https://github.com/eduardobritosan/csvJavascript",
+  "devDependencies": {
+    "chai": "^2.1.1",
+    "mocha": "^2.2.1"
+  }
+}
