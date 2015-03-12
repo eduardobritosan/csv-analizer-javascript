@@ -1,1 +1,1 @@
-csv: node csv.js
+web: node csv.js
