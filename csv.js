@@ -7,9 +7,6 @@ $(document).ready(function() {
    });
  });
 
-app.set('port', (process.env.PORT || 3000));
-
-
 function calculate() {
   var result;
   var original       = document.getElementById("original");
