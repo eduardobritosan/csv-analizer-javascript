@@ -18,6 +18,9 @@
   "bugs": {
     "url": "https://github.com/eduardobritosan/csvJavascript/issues"
   },
+  "engines": {
+    "node": "0.10.x"
+  },
   "homepage": "https://github.com/eduardobritosan/csvJavascript",
   "devDependencies": {
     "chai": "~2.0.0",
