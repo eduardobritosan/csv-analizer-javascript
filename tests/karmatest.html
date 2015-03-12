@@ -1,4 +1,4 @@
-﻿<html>
+﻿﻿<html>
   <head>
      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
      <title>CSV Analyzer</title>
@@ -6,7 +6,7 @@
 
      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.2/underscore-min.js"></script>
      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-     <script type="text/javascript" src="../csv.js"></script>
+     <script type="text/javascript" src="csv.js"></script>
      <script type="text/html" id="tableTemplate"> 
   <p>
     <table class="center" id="result">
@@ -39,7 +39,8 @@
     <span class="output" id="finaltable"></span>
      <script src="chai.js"></script>
     <script src="mocha.js"></script>
-   
+     <script src="blanket.js"
+          data-cover-adapter="mocha-blanket.js"></script>
     <script src="../csv.js"></script>
     <script>mocha.setup('tdd')</script>
     <script src="karmatest.js"></script>
