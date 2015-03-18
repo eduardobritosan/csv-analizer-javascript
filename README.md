@@ -3,9 +3,9 @@
 Webpage that parses a CSV string and displays it in table form. Made with JavaScript, HTML, CSS, JQuery, Express.js, underscore.js and AJAX. Testing made with Mocha, Chai, Blanket.js and Karma. Continuous Integration by Travis CI.
 
 ##Made by:
-**Hector Rodriguez Perez** [Github Page](hecrp.github.io) | [GitHub account](www.github.com/hecrp)
+**Hector Rodriguez Perez** [Github Page](http://hecrp.github.io) | [GitHub account](http://www.github.com/hecrp)
 
-**Eduardo Brito Sanchez** [Github Page](eduardobritosan.github.io) | [GitHub account](www.github.com/eduardobritosan)
+**Eduardo Brito Sanchez** [Github Page](http://eduardobritosan.github.io) | [GitHub account](http://www.github.com/eduardobritosan)
 
 ##With more testing!
 [We're not pretty but we try. Mocha, Chai and Blanket.js](http://eduardobritosan.github.io/csvJavascript/tests/index.html)
