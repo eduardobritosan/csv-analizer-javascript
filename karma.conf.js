@@ -34,6 +34,7 @@ module.exports = function(config) {
     exclude: [
       'gulpfile.js',
       'tests/test.js'
+      'app.js'
     ],
 
 
