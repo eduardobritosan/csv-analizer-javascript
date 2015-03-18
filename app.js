@@ -5,6 +5,8 @@ var expressLayouts = require('express-ejs-layouts');
 var _ = require('underscore');
 var $ = require('jquery');
 
+app.set('port', (process.env.PORT || 5000));
+
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
 app.use(expressLayouts);
