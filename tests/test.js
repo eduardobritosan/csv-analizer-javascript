@@ -2,7 +2,7 @@ var assert = chai.assert;
 //var converted;
 //var original;
 
-suite('Tests', function() {
+suite('csv', function() {
 	if (typeof __html__ !== 'undefined') {
 							document.body.innerHTML = __html__['tests/index.html'];
               original = document.getElementById('original');
