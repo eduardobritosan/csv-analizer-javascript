@@ -1,4 +1,4 @@
-# CSV language analyzer. ![Travis is down?](https://travis-ci.org/eduardobritosan/csvJavascript.svg?branch=gh-pages)
+# CSV language analyzer. ![Travis is down?](https://travis-ci.org/eduardobritosan/csvJavascript.svg?branch=gh-pages)[![Circle CI](https://circleci.com/gh/eduardobritosan/csvJavascript/tree/gh-pages.svg?style=svg)](https://circleci.com/gh/eduardobritosan/csvJavascript/tree/gh-pages)
 
 Webpage that parses a CSV string and displays it in table form. Made with JavaScript, HTML, CSS, JQuery, Express.js, underscore.js and AJAX. Testing made with Mocha, Chai, Blanket.js and Karma. Continuous Integration by Travis CI.
 
@@ -19,5 +19,7 @@ Webpage that parses a CSV string and displays it in table form. Made with JavaSc
 ##GitHub Page
 [Here, here](http://eduardobritosan.github.io/csvJavascript)
 
+##Circle CI
+[More continuous integration](https://circleci.com/gh/eduardobritosan/csvJavascript)
 
 
